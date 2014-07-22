@@ -1,0 +1,40 @@
+{
+  "uuid": "c855dd45-6651-40fa-9643-1601b2846d4b",
+  "shortName": "TTBlock",
+  "longName": "TickTockBlock",
+  "companyName": "Paul S.",
+  "versionCode": 1,
+  "versionLabel": "1.0.0",
+  "watchapp": {
+    "watchface": true
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+"media": [
+      {
+        "menuIcon": false,
+        "type": "png",
+        "name": "IMAGE_MENU_ICON",
+        "file": "images/icon.png"
+      },
+      {
+        "type": "png",
+        "name": "FUTURE",
+        "file": "images/future.png"
+      },
+      {
+        "type": "png",
+        "name": "PAST",
+        "file": "images/past.png"
+        },
+        {
+        "type": "font",
+        "name": "IMAGINE_42",
+        "file": "fonts/imagine.ttf"
+       
+     }
+    ]
+  }
+}
